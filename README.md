@@ -64,4 +64,4 @@ Este projeto serve como uma excelente base para futuros desenvolvimentos. Você 
 
 Fique à vontade para entrar em contato para saber mais sobre o projeto e compartilhar suas ideias ou dúvidas. Vamos continuar aprendendo e crescendo juntos! 🤝
 
-[LinkedIn](seu-linkedin-aqui) 🔗
+[LinkedIn](https://www.linkedin.com/in/omiguelgermano/) 🔗
